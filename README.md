@@ -3,7 +3,7 @@
 自己是一個非常喜歡 Android 的開發者, 喜歡記錄自己 debug 的所有經過, 希望這些解法能夠幫助到大家, 也希望大家能夠多多給我意見 ^^</br>
 
 ## 聯繫方式
-- [Email](begining1003@gmail.com)
+- [begining1003@gmail.com](mailto:begining1003@gmail.com)
 - [Github](http://github.com/weitsai)
 - [Facebook](https://www.facebook.com/stuwebbertsai)
 
