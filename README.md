@@ -11,7 +11,7 @@
 0. [大綱](README.md)
 1. [String Out Of Memory](ch1-string_out_of_memory/README.md)
   1. [解決方案(一) - largeHeap](ch1-string_out_of_memory/largeheap.md)
-  2. [解決方案(二) - JsonReader)](ch1-string_out_of_memory/JsonReader.md)
+  2. [解決方案(二) - JsonReader](ch1-string_out_of_memory/JsonReader.md)
 
 ## 意見回饋
 若發現錯字或是問題可透過 [issues](https://github.com/weitsai/android-debug-diary/issues) 或 [Pull Requests](https://github.com/weitsai/android-debug-diary/pulls) 來提出疑問.
@@ -23,3 +23,4 @@
   * [透過 largeHeap 解決](ch1-string_out_of_memory/largeheap.md)
 - 2014/12/28
   加強踏雷日記(String Out Of Memory) - JsonReader, Gson
+  * [新增透過 JsonReader 解決](ch1-string_out_of_memory/JsonReader.md)
