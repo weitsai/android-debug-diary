@@ -23,4 +23,4 @@
   * [透過 largeHeap 解決](ch1-string_out_of_memory/largeheap.md)
 - 2014/12/28
   加強踏雷日記(String Out Of Memory) - JsonReader, Gson
-  * [新增透過 JsonReader 解決](ch1-string_out_of_memory/JsonReader.md)
+  * [透過 JsonReader 解決](ch1-string_out_of_memory/JsonReader.md)
