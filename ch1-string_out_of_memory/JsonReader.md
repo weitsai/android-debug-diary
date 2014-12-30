@@ -84,13 +84,13 @@ String s = new String(buffer);
 3.使用原生 [JsonReader](http://developer.android.com/reference/android/util/JsonReader.html) 的解法
 
   3-1.方法介紹
-  - [hashNext()](http://developer.android.com/reference/android/util/JsonReader.html#hasNext()) - 用來判斷是不是還有下一筆資料
-  - [beginArray()](http://developer.android.com/reference/android/util/JsonReader.html#beginArray()) - 往內一層 Array
-  - [endArray()](http://developer.android.com/reference/android/util/JsonReader.html#endArray()) -  回到外面一層 Array
-  - [beginObject()](http://developer.android.com/reference/android/util/JsonReader.html#beginObject()) - 往內一層 Object
-  - [endObject()](http://developer.android.com/reference/android/util/JsonReader.html#endObject()) - 回到外面一層 Object
-  - [nextName()](http://developer.android.com/reference/android/util/JsonReader.html#nextName()) - 取得 Object Key
-  - [nextString()](http://developer.android.com/reference/android/util/JsonReader.html#nextString()) - 取得 String
+  - [hashNext()](http://developer.android.com/reference/android/util/JsonReader.html#hasNext(%29) - 用來判斷是不是還有下一筆資料
+  - [beginArray()](http://developer.android.com/reference/android/util/JsonReader.html#beginArray(%29) - 往內一層 Array
+  - [endArray()](http://developer.android.com/reference/android/util/JsonReader.html#endArray(%29) -  回到外面一層 Array
+  - [beginObject()](http://developer.android.com/reference/android/util/JsonReader.html#beginObject(%29) - 往內一層 Object
+  - [endObject()](http://developer.android.com/reference/android/util/JsonReader.html#endObject(%29) - 回到外面一層 Object
+  - [nextName()](http://developer.android.com/reference/android/util/JsonReader.html#nextName(%29) - 取得 Object Key
+  - [nextString()](http://developer.android.com/reference/android/util/JsonReader.html#nextString(%29) - 取得 String
 
 
   > 注意事項：
